@@ -1,0 +1,17 @@
+					Conclusión
+
+Desde mi punto de vista pienso que GIT es una buena herramienta de programacion que facilita el seguimiento de los cambios en los archivos. Por ejemplo, cuando edita un archivo, git puede ayudarlo a determinar exactamente qué cambió, quién lo cambió y por qué.
+
+GIT utiliza una serie de comandos y en el video de la clase se utilizaron comandos como:
+
+git init.-  sirve para crear una carpeta oculta,dentro de la carpeta donde tenemos nuestro proyecto.
+git status.- este comando sirve para mostrar el estado de los archivos.
+git add.- con este comando añadimos todos los archivos para el commit.
+git comit.- este comando indica los cambios que se han realizado en el area.
+
+En realidad se necesitaron mas comandos, pero fue entretenido conocer el funcionamiento de 
+un nuevo programa en mi vida estudiantil.
+
+
+
+
